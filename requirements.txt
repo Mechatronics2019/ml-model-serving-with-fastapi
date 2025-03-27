@@ -7,3 +7,4 @@ torch
 boto3
 uvicorn
 fastapi
+pydantic[email]
